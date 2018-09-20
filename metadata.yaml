@@ -1,5 +1,8 @@
 _repo: The-King-Country-or-Explorations-in-New-Zealand-A-Narrative-of-600-Miles-of-Travel-Through-Ma__53244
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53244-h/images/cover.jpg
 creator:
   author:
     agent_name: Kerry-Nicholls, J. H. (James Henry)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47286'
     url: http://www.gutenberg.org/2009/agents/47286
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53244#The-King-Country-or-Explorations-in-New-Zealand-A-Narrative-of-600-Miles-of-Travel-Through-Ma_
 gutenberg_issued: '2016-10-10'
 gutenberg_type: Text
 identifiers:
