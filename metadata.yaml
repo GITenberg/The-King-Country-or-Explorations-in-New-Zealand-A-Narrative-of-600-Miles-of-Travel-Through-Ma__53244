@@ -1,0 +1,27 @@
+_repo: The-King-Country-or-Explorations-in-New-Zealand-A-Narrative-of-600-Miles-of-Travel-Through-Ma__53244
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kerry-Nicholls, J. H. (James Henry)
+    alias: Kerry-Nicholls, James Henry
+    deathdate: 1888
+    gutenberg_agent_id: '47286'
+    url: http://www.gutenberg.org/2009/agents/47286
+description: ''
+gutenberg_issued: '2016-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53244'
+  lccn: '04032537'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Zealand -- Description and travel'
+- !lcc 'DU'
+- GITenberg
+title: 'The King Country; or, Explorations in New Zealand
+
+  A Narrative of 600 Miles of Travel Through Maoriland.'
+url: http://www.gutenberg.org/ebooks/53244
